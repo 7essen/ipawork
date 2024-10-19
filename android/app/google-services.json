@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "591719479365",
+    "project_id": "fcmnewst",
+    "storage_bucket": "fcmnewst.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591719479365:android:eefe703822e71da0d5cb2c",
+        "android_client_info": {
+          "package_name": "com.example.fcmyoutube"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1eghe_1PX5vcpOcP9pdmNn0VPZFj1Bz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
